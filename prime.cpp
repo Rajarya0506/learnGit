@@ -23,7 +23,7 @@ int main() {
   }
 
   if (is_prime)
-    cout << n << " is a prime number";
+    cout << n << " is  prime number not divided by other numbers except 2 and itself";
   else
     cout << n << " is not a prime number";
 
